@@ -1,0 +1,20 @@
+.header{
+    background-color: black;
+    height: 50px;
+}
+.video-icons{
+    color:white ;
+    vertical-align: middle;
+    margin: 0 6px;
+   
+}
+
+.navigation-menu{
+    float: right;
+    background-color: #323131;
+    height:40vh;
+}
+.icons{
+   
+    margin-left: 1205px;
+}
